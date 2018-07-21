@@ -10,7 +10,7 @@ In this project we look at health inspection visits to different restaurants and
 - seaborn
 - pandas
 
-
+### Process
 We used factorplot to depict the most common violations and draw trend of score with pyplot to analyze the impact of inspection. 
 ![pyplot](DV3.png)
 
@@ -18,7 +18,7 @@ Also, we applied the heatmap to generate insights of violations these Restaurant
 
 ![heatmap](DV1.png)
 
-<b> Finding  </b>
+### Findings
 
 1. This project reveals that TEREE BEARS BAR-B-Q got the worst score: 65 in LA.
 
