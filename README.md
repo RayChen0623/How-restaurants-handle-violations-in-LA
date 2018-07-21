@@ -4,7 +4,7 @@
 
 In this project we look at health inspection visits to different restaurants and the scores the restaurants get. Our focus in this project is to examine how the worst scoring restaurants perform overtime and what violations they make.
 
-<b> Tech Stack </b>
+***Tech Stack
 - Matplotlib
 - Jupyter Notebook
 - seaborn
