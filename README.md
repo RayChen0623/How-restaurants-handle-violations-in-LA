@@ -1,10 +1,10 @@
 # How-restaurants-handle-violations-in-LA
 
-** Analysis of Restaurant Health Violations **
+<b> Analysis of Restaurant Health Violations </b>
 
 In this project we look at health inspection visits to different restaurants and the scores the restaurants get. Our focus in this project is to examine how the worst scoring restaurants perform overtime and what violations they make.
 
-** Tech Stack **
+<b> Tech Stack </b>
 
 We used factorplot to depict the most common violations and draw trend of score with pyplot to analyze the impact of inspection. 
 ![pyplot](DV3.png)
@@ -13,7 +13,7 @@ Also, we applied the heatmap to generate insights of violations these Restaurant
 
 ![heatmap](DV1.png)
 
-** Finding  **
+<b> Finding  </b>
 
 1. This project reveals that TEREE BEARS BAR-B-Q got the worst score: 65 in LA.
 
