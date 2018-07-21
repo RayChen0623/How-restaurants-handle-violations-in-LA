@@ -5,10 +5,10 @@
 In this project we look at health inspection visits to different restaurants and the scores the restaurants get. Our focus in this project is to examine how the worst scoring restaurants perform overtime and what violations they make.
 
 <b> Tech Stack </b>
--Matplotlib
--Jupyter Notebook
--seaborn
--pandas
+- Matplotlib
+- Jupyter Notebook
+- seaborn
+- pandas
 
 
 We used factorplot to depict the most common violations and draw trend of score with pyplot to analyze the impact of inspection. 
