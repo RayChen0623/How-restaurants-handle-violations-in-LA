@@ -24,7 +24,7 @@ Also, we applied the heatmap to generate insights of violations these Restaurant
 
 2. There seem to be three kinds of responses that resturants take. One is to procrastinate and put off correcting all the violations until they have to be inspected again. The second is to immediatly correct most of the worst violations, the last is to just close down because they cannot correct the violations. But each of these resturants also never reach a perfect score. They just aim for 90 or an A and just stop.
 
-3. Comparing heatmaps of the count and point losing, we found the most common violations of the worst are related to the equipment, however, these violations are not the main reason that they lose many points in the inspection. Most of the points that are lost are due to poor termperature for holding foods and pests in the restaurant. If you don't want to have a bad score on your health inspection, you have to focus on having proper storage temperatures and keeping pests away. 
+3. Comparing heatmaps of the count and point losing, we found the most common violations of the worst are related to the equipment, however, these violations are not the main reason that they lose many points in the inspection. Most of the points that are lost are due to poor termperature for holding foods and pests in the restaurant. If you don't want to have a bad score on your health inspection, you have to focus on having proper temperatures and keeping pests away. 
 
 4. According to this project, performance of 2016 is better than other years. The scores for 2016 are higher than the average.
 
