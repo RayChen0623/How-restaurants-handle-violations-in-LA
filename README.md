@@ -16,7 +16,8 @@ We used factorplot to depict the most common violations and draw trend of score 
 
 Also, we applied the heatmap to generate insights of violations these Restaurants have trouble fixing and greatest impact on score.
 
-![heatmap](DV1.png)
+![heatmap](DV10.png)
+![heatmap](DV6.png)
 
 ### Findings
 
